@@ -1,6 +1,6 @@
 # Gitlab Lumen Test Pipeline
 
-### Simple CI pipeline that seeds and runs tests (with prebuild image)
+### Simple CI pipeline that seeds and runs tests (with prebuilt image)
 
 ![pipeline](https://github.com/semjonsv/gitlab-ci-lumen-pipeline/blob/master/pipeline.png)
 
